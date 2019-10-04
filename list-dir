@@ -1,0 +1,6 @@
+total 8
+drwxr-xr-x    5 miro  staff   160  4 Oct 19:05 .
+drwxr-xr-x  110 miro  staff  3520  4 Oct 18:57 ..
+drwxr-xr-x   14 miro  staff   448  4 Oct 19:05 .git
+-rw-r--r--    1 miro  staff    48  4 Oct 18:57 README.md
+-rw-r--r--    1 miro  staff     0  4 Oct 19:05 list-dir
